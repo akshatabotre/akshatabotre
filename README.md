@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\aksha\OneDrive\Desktop\git.jpg"" alt="Akshata Botre" width="600"/>
+  <img src=""D:\Git\git.jpg"" alt="Akshata Botre" width="600"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Akshata Botre</h1>
