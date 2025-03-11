@@ -4,7 +4,7 @@
 
 I am a passionate Business Analyst and Project Management enthusiast with a background in Information Systems and Integration Development. Based in Chicago, USA, I love leveraging data, technology, and strategy to optimize workflows and drive business insights.  
 
-🔹 **Currently learning:** Unix, Oracle, SQL  
+🔹 **Currently learning:** Unix, SQL  
 🔹 **Seeking opportunities in:** Business Analysis | Project Management | System Integration  
 🔹 **Technical skills:** SQL | Python | Boomi | Data Visualization  
 🔹 **Open to collaboration on:** Data-driven projects & workflow automation  
