@@ -28,4 +28,15 @@ I am a passionate Business Analyst and Project Management enthusiast with a back
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white" />
 </p>
+---
+
+## 📊 Power BI Dashboards
+
+<p align="center">
+  <img src="https://github.com/akshatabotre/Power-BI-Dashboard/blob/main/Adventure%20works.png?raw=true" alt="Adventure Works Dashboard" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/akshatabotre/Power-BI-Dashboard/blob/main/thumbnail.jpg?raw=true" alt="SN Corp Dashboard" width="600"/>
+</p>
 
