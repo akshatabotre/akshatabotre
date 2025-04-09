@@ -33,7 +33,7 @@ I am a passionate Business Analyst and Project Management enthusiast with a back
 ## 📊 Power BI Dashboards
 
 <p align="center">
-  <img src="https://github.com/akshatabotre/Power-BI-Dashboard/blob/main/adventure-works.png?raw=true" alt="Adventure Works Dashboard" width="400" style="margin-right: 10px;"/>
+  <img src="https://github.com/akshatabotre/Power-BI-Dashboard/blob/main/adventure works.png?raw=true" alt="Adventure Works Dashboard" width="400" style="margin-right: 10px;"/>
   <img src="https://github.com/akshatabotre/Power-BI-Dashboard/blob/main/thumbnail.jpg?raw=true" alt="SN Corp Dashboard" width="400"/>
 </p>
 
