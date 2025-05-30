@@ -15,7 +15,7 @@ I am a passionate Business Analyst and Project Management enthusiast with a back
 🔹 **Fun fact:** I once built a Rube Goldberg machine to water a plant! 🌱  
 
 📩 **Contact me:** akshatabotre12@gmail.com  
-📂 **Portfolio:** [Coming Soon!]  
+📂 **Portfolio:** https://akshatabotre.github.io/portfolio/  
 💼 **LinkedIn:** [linkedin.com/in/akshatabotre](https://www.linkedin.com/in/akshatabotre)  
 
 
